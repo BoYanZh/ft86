@@ -317,7 +317,7 @@ Update frequency: 10 times per second.
 
 Channel name | Equation | Notes
 ------------ | -------- | -----
-AT fluid temperature | `E - 50` |
+AT fluid temperature | `E - 50` | Available on both ASC and DCM ports.
 
 ### CAN ID 0x390 (912)
 
